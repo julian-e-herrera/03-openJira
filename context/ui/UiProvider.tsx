@@ -1,5 +1,6 @@
 import { FC, useReducer } from 'react';
 import { UIContext, uiReducer } from './';
+import React from 'react';
 
 
 export interface UIState {
